@@ -1,1 +1,1 @@
-print("I'm in fst class")
+print("I'm in first class")

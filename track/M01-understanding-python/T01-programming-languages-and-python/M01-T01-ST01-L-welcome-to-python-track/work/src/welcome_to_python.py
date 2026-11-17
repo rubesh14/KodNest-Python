@@ -1,1 +1,1 @@
-#write you code here
+print("I'm in fst class")

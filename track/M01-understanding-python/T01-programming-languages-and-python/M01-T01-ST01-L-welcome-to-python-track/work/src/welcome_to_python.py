@@ -1,3 +1,6 @@
-print("Welcome to Python Track")
+print("Welcome to Python Track.")
+print("My name is Rubesh.")
+print("My goal is to become a python developer.")
+print("I selected Python because I want to build applications using data, automation and AI.")
 print ("I already know how to build programming logic")
 print("Now i am learning how to express that logic using python")
